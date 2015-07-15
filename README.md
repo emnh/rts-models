@@ -7,6 +7,7 @@ Contains models and textures for rts game.
 ## Textures
 
  - [images/ant.jpg](http://www.turbosquid.com/FullPreview/Index.cfm/ID/388875)
+ - [images/biplane.jpg](http://opengameart.org/content/low-poly-biplane)
  - [images/bricks.jpg](http://www.sharecg.com/images/medium/3855.jpg)
  - [images/camouflage.jpg](http://img0.mxstatic.com/wallpapers/192578314b28969a714d4ad9bd129d47_large.jpeg)
  - [images/diamond.jpg](http://files.doobybrain.com/wp-content/uploads/2013/05/diamond.jpg)
@@ -21,6 +22,7 @@ Contains models and textures for rts game.
 ## 3D models
 
  - [3d/ant.json](http://www.turbosquid.com/FullPreview/Index.cfm/ID/388875)
+ - [3d/biplane.json](http://opengameart.org/content/low-poly-biplane)
  - [3d/diamond.json](http://www.turbosquid.com/FullPreview/Index.cfm/ID/675252)
  - [3d/dragon.json](http://www.turbosquid.com/FullPreview/Index.cfm/ID/455821)
  - [3d/fighter.jpg](http://www.psionicgames.com/downloads/fighter.zip)
