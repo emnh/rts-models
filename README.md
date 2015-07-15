@@ -55,55 +55,66 @@ Contains models and textures for rts game.
  - [Merchant Tent](http://opengameart.org/content/merchant-tent-v3)
  - [Tower](http://opengameart.org/content/tower-model)
  - [Four Sci-Fi Buildings: Turret, Tesla Coil, Crystal Grower, Refinery](http://opengameart.org/content/four-science-fiction-buildings)
+ - [Heavy-turret](http://opengameart.org/content/heavy-turret)
+ - [Watchtower](http://opengameart.org/content/watchtower-wood)
+ - [Stronghold](http://opengameart.org/content/stronghold)
+ - [Turbine-looking machine](http://opengameart.org/content/oldnew-machine)
 
 ### Units
- - [Kraken Mech](http://opengameart.org/content/kraken-mech-justin-nichols-concept)
- - [Spaceship 3D model](http://opengameart.org/content/spaceship-3d-model1-blend)
  - [Viking Cartoon](http://opengameart.org/content/viking-cartoon)
  - [Mars Rover](http://opengameart.org/content/mars-rover)
- - [Cartoon Helicopter](http://opengameart.org/content/cartoon-helicopter-0)
- - [Simple Helicopter](http://opengameart.org/content/simple-helicopter)
- - [Turbine-looking machine](http://opengameart.org/content/oldnew-machine)
  - [Gatling Mini-gun](http://opengameart.org/content/gatlingmini-gun)
- - [Blackbird Plane](http://opengameart.org/content/black-bird)
- - [Rotor Fighter Plane](http://opengameart.org/content/sci-fi-rotor-fighter)
- - [UFO](http://opengameart.org/content/ufo-saucer)
- - [2nd UFO](http://opengameart.org/content/simple-ufo)
- - [Space Station](http://opengameart.org/content/space-station)
- - [Sci-fi Fighter Plane Hextraction](http://opengameart.org/content/hextraction-base-player-pod)
- - [Military Van](http://opengameart.org/content/military-van)
  - [Big Guy (Marauder)](http://opengameart.org/content/big-guy)
  - [Jade Dragon](http://opengameart.org/content/jade-dragon)
- - [Grid Louse](http://opengameart.org/content/grid-louse)
  - [Fire/ice/stone golem](http://opengameart.org/content/fireicestone-golem)
  - [Shuttle](http://opengameart.org/content/shuttle-2)
  - [Monster Truck](http://opengameart.org/content/rc-car-model)
  - [Turret](http://opengameart.org/content/turret-1)
  - [Mobile Turret / Stalker](http://opengameart.org/content/mobile-turret)
  - [Turret Revived](http://opengameart.org/content/turret-reviwed)
- - [Razorback WWII Plane](http://opengameart.org/content/the-down-necker)
+ - [Heavy Vehicle / SCV](http://opengameart.org/content/heavy-vehicle)
+ - [Abstract RTS Model Pack (Turret, tank, airplane)](http://opengameart.org/content/abstract-rts-model-pack)
+ - [Dwarf](http://opengameart.org/content/dwarf-fixed)
+ - [Tripod vehicle / Colossus](http://opengameart.org/content/martian-tripod-vehicle)
+
+### Ships
+ - [Aircraft Carrier Ship](http://tf3dm.com/3d-model/aircraft-carrier-43059.html)
+ - [Old Ship](http://opengameart.org/content/ship)
+
+### Tanks
+ - [Sci-fi Light Tank](http://opengameart.org/content/sci-fi-light-tank)
+ - [T-34 Tank](http://opengameart.org/content/t-3485)
+ - [Halftrack Semi-Tank](http://opengameart.org/content/halftrack)
  - [Tank Car](http://opengameart.org/content/tankcar)
  - [Tank](http://opengameart.org/content/tank-0)
- - [Watchtower](http://opengameart.org/content/watchtower-wood)
- - [Stronghold](http://opengameart.org/content/stronghold)
+ - [Military Van](http://opengameart.org/content/military-van)
+ - [American Tank](http://opengameart.org/content/american-tank)
+
+### Aircraft
  - [Sci-Fi Fighter (shipyard)](http://opengameart.org/content/shipyard-v07-extracted)
- - [Horse Lowpoly](http://opengameart.org/content/horse-lowpoly)
  - [Thunderbolt Fighter Plane](http://tf3dm.com/3d-model/us-a-10-thunderbolt-58817.html)
- - [Aircraft Carrier Ship](http://tf3dm.com/3d-model/aircraft-carrier-43059.html)
+ - [Razorback WWII Plane](http://opengameart.org/content/the-down-necker)
  - [Steampunk Aircraft](http://opengameart.org/content/steampunk-aircraft)
- - [Sci-fi Light Tank](http://opengameart.org/content/sci-fi-light-tank)
- - [Old Ship](http://opengameart.org/content/ship)
- - [Heavy Vehicle / SCV](http://opengameart.org/content/heavy-vehicle)
- - [Beetle / Roach](http://opengameart.org/content/beetle-basic)
+ - [Spaceship](http://opengameart.org/content/spaceship-3d-model1-blend)
+ - [Future Fighterjet](http://opengameart.org/content/future-fighterjet-v2)
+ - [Cartoon Helicopter](http://opengameart.org/content/cartoon-helicopter-0)
+ - [Simple Helicopter](http://opengameart.org/content/simple-helicopter)
+ - [Blackbird Plane](http://opengameart.org/content/black-bird)
+ - [Rotor Fighter Plane](http://opengameart.org/content/sci-fi-rotor-fighter)
+ - [UFO](http://opengameart.org/content/ufo-saucer)
+ - [2nd UFO](http://opengameart.org/content/simple-ufo)
+ - [Space Station](http://opengameart.org/content/space-station)
+ - [Sci-fi Fighter Plane Hextraction](http://opengameart.org/content/hextraction-base-player-pod)
  - [P51 Mustang Old Fighter Plane](http://opengameart.org/content/p51-mustang)
  - [Mitsubish Zero Old Fighter Plane](http://opengameart.org/content/mitsubishi-zero)
  - [Sci-fi Air Fighter](http://opengameart.org/content/low-spec-airspace-fighter)
- - [T-34 Tank](http://opengameart.org/content/t-3485)
- - [Abstract RTS Model Pack (Turret, tank, airplane)](http://opengameart.org/content/abstract-rts-model-pack)
- - [Halftrack Semi-Tank](http://opengameart.org/content/halftrack)
+ - [Rusty Ship](http://opengameart.org/content/rusty-ship)
+
+### Mechs
  - [THB-5J Mech / Thor](http://opengameart.org/content/thb-5j-thunderbird)
- - [Dwarf](http://opengameart.org/content/dwarf-fixed)
- - [Heavy-turret](http://opengameart.org/content/heavy-turret)
+ - [Mech](http://opengameart.org/content/mech)
+ - [Kraken Mech](http://opengameart.org/content/kraken-mech-justin-nichols-concept)
+ - [Ubot](http://opengameart.org/content/ubot)
 
 ### Animals
  - [Bunny](http://opengameart.org/content/bunny-without-fur)G
@@ -114,11 +125,25 @@ Contains models and textures for rts game.
  - [Dog](http://opengameart.org/content/benny-the-rottweiler)
  - [Bird](http://opengameart.org/content/bird)
  - [Camel](http://opengameart.org/content/camel)
+ - [Horse Lowpoly](http://opengameart.org/content/horse-lowpoly)
+ - [Scorpion](http://opengameart.org/content/scorpion)
+
+### Zerg-like
+ - [Egg Sack](http://opengameart.org/content/giant-egg-sack)
+ - [Grid Louse](http://opengameart.org/content/grid-louse)
+ - [Beetle / Roach](http://opengameart.org/content/beetle-basic)
+ - [Zyrag / Zergling](http://opengameart.org/content/zyrag)
+ - [Antlion / Queen](http://opengameart.org/content/antlion-demon)
 
 ### Terrain
  - [3D Dungeon Tileset](http://opengameart.org/content/3d-dungeon-tileset)
  - [Example Terrains](http://opengameart.org/content/example-terrains)
  - [Mountain with mine](http://opengameart.org/content/natural-resource-deposits-and-mines-unknown-horizons-3d)
+ - [Low-poly Mountains](http://opengameart.org/content/low-poly-mountains)
+
+## Missiles
+ - [Rockets and missiles](http://opengameart.org/content/rockets-launchers-and-turret-astromenace)
+ - [Fat Man Atom Bomb](http://opengameart.org/content/fat-man)
 
 ### Misc
  - [3D Crystals](http://opengameart.org/content/simple-3d-crystals-unwrapped-simple-texture)
@@ -130,9 +155,8 @@ Contains models and textures for rts game.
  - [Gold Stacks](http://opengameart.org/content/gold-stacks)
  - [Power Cell](http://opengameart.org/content/small-power-cell)
  - [Rocks](http://opengameart.org/content/rocks-03)
- - [Egg Sack](http://opengameart.org/content/giant-egg-sack)
  - [Wall](http://opengameart.org/content/wall)
- - [Rockets and missiles for unit shots](http://opengameart.org/content/rockets-launchers-and-turret-astromenace)
  - [Mines](http://opengameart.org/content/mines-astromenace)
+ - [Mine Cart Set (Rail Tracks)](http://opengameart.org/content/mine-cart-set)
 
 
