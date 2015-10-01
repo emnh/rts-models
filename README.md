@@ -32,6 +32,7 @@ Contains models and textures for rts game.
  - [3d/horse.json](http://www.turbosquid.com/FullPreview/Index.cfm/ID/659325)
  - [3d/house.json](http://www.turbosquid.com/FullPreview/Index.cfm/ID/464428)
  - [3d/missile.json](http://opengameart.org/content/rockets-launchers-and-turret-astromenace)
+ - [3d/moonbase.json](http://www.turbosquid.com/FullPreview/Index.cfm/ID/908346)
  - [3d/tank-apc.json](http://www.turbosquid.com/FullPreview/Index.cfm/ID/892339)
  - [3d/tank-m1a1.json](http://www.turbosquid.com/FullPreview/Index.cfm/ID/793185)
  - [3d/thor.json](http://opengameart.org/content/robot-5)
